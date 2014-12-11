@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery.transit</artifactId>
-    <version>0.9.12</version>
+    <version>0.9.13-SNAPSHOT</version>
     <name>jQuery Transit</name>
     <description>WebJar for jQuery Transit</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/jquery.transit</url>
         <connection>scm:git:https://github.com/webjars/jquery.transit.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jquery.transit.git</developerConnection>
-        <tag>jquery.transit-0.9.12</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
